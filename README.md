@@ -2,7 +2,7 @@
 
 This repository is a dictionary of IBM webMethods technology patterns and how they are used. It grows continuously.
 
-Each pattern is discussed and measured for its readiness for continuous delivery, using the aspects, indicators, rating scale and environment model defined in the framework article [Readiness for Continuous Delivery](../1c-framework/articles/ContinuousDeliveryReadiness.md). The article is the single place where the metrics are defined. This repository does not repeat or redefine them.
+Each pattern is discussed and measured for its readiness for continuous delivery, using the aspects, indicators, rating scale and environment model defined in the framework article [Readiness for Continuous Delivery](https://github.com/ibm-webmethods-continuous-delivery/1c-framework/blob/main/articles/ContinuousDeliveryReadiness.md). The article is the single place where the metrics are defined. This repository does not repeat or redefine them.
 
 ## How a pattern is described
 
